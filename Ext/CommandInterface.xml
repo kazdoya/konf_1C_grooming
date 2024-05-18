@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<SubsystemsVisibility>
+		<Subsystem name="e86a3cac-1b44-4562-94e1-a5816b0c02b3">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="3be70101-3e2c-45e8-820d-7e2e9664e58e">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="7c360bc1-6fb6-4c19-8064-5fa2e88a034f">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="d5eb2990-3353-41f7-97b9-204806bc859d">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="e1ca9f85-6b66-4e13-8a13-438429acc59a">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="ec346d6e-0210-4d3e-87ef-80540227e15d">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="f8148a4a-e0b3-4eed-81d3-1fd6c582847f">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="dc785d58-e5d6-4694-9b23-f4b474367c2c">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="8523ffbb-bef7-4cd5-af9d-f8c1aaca0530">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="f3953c36-8ff1-4f16-9b47-c140542ac3f9">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="01df0654-6941-4e30-96aa-8b171d5ce0c9">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="0ed4b7ae-11d1-4c47-af71-77be9134d365">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="1adef2a6-0710-424c-a13b-7e45d580c4f8">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="0bd4d305-bc5f-4a7e-81aa-e7a25c1722aa">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="b13842a4-9028-440a-ad1f-e5314ddfedfe">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="b3e4e457-e579-4c02-9ab3-b4ab61503ccf">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="5163b757-67fc-4422-a44e-056bef209903">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+	</SubsystemsVisibility>
+	<SubsystemsOrder>
+		<Subsystem>e86a3cac-1b44-4562-94e1-a5816b0c02b3</Subsystem>
+		<Subsystem>Subsystem.Справочники</Subsystem>
+		<Subsystem>Subsystem.Покупки</Subsystem>
+		<Subsystem>Subsystem.Продажи</Subsystem>
+		<Subsystem>Subsystem.Персонал</Subsystem>
+		<Subsystem>Subsystem.Настройки</Subsystem>
+		<Subsystem>3be70101-3e2c-45e8-820d-7e2e9664e58e</Subsystem>
+		<Subsystem>7c360bc1-6fb6-4c19-8064-5fa2e88a034f</Subsystem>
+		<Subsystem>d5eb2990-3353-41f7-97b9-204806bc859d</Subsystem>
+		<Subsystem>e1ca9f85-6b66-4e13-8a13-438429acc59a</Subsystem>
+		<Subsystem>ec346d6e-0210-4d3e-87ef-80540227e15d</Subsystem>
+		<Subsystem>f8148a4a-e0b3-4eed-81d3-1fd6c582847f</Subsystem>
+		<Subsystem>dc785d58-e5d6-4694-9b23-f4b474367c2c</Subsystem>
+		<Subsystem>8523ffbb-bef7-4cd5-af9d-f8c1aaca0530</Subsystem>
+		<Subsystem>f3953c36-8ff1-4f16-9b47-c140542ac3f9</Subsystem>
+		<Subsystem>01df0654-6941-4e30-96aa-8b171d5ce0c9</Subsystem>
+		<Subsystem>0ed4b7ae-11d1-4c47-af71-77be9134d365</Subsystem>
+		<Subsystem>1adef2a6-0710-424c-a13b-7e45d580c4f8</Subsystem>
+		<Subsystem>0bd4d305-bc5f-4a7e-81aa-e7a25c1722aa</Subsystem>
+		<Subsystem>b13842a4-9028-440a-ad1f-e5314ddfedfe</Subsystem>
+		<Subsystem>b3e4e457-e579-4c02-9ab3-b4ab61503ccf</Subsystem>
+		<Subsystem>5163b757-67fc-4422-a44e-056bef209903</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>
